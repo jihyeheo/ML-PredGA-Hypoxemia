@@ -1,5 +1,5 @@
 # ML-PredGA-Hypoxemia
-ML based hypoxemia prediction in general anesthesia patients
+External Validation and Analysis of Hypoxemia Prediction in Pediatric Patients under General Anesthesia using Machine Learning: A Retrospective Observational Study
 
 Sujin Baek*, Jung-Bin Park*, **Jihye heo**, Kyungsang Kim, Donghyeon Baek, Chahyun Oh, Hyung-Chul Lee, Dongheon Lee and Boohwi Hong
 
